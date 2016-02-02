@@ -1,0 +1,22 @@
+{
+  "name": "node-modules-function-lab",
+  "version": "1.0.0",
+  "description": "Using Function Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:learn-co-curriculum/node-modules-function-lab.git"
+  },
+  "author": "Azat Mardan",
+  "license": "ISC",
+  "bugs": {
+    "url": "git@github.com:learn-co-curriculum/node-modules-function-lab.git/issues"
+  },
+  "homepage": "git@github.com:learn-co-curriculum/node-modules-function-lab.git/#readme",
+  "devDependencies": {
+    "tape": "4.3.0"
+  }
+}
