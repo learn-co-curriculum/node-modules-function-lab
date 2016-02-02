@@ -17,6 +17,7 @@ In this lab, you'll master how to create, export and import a function module, i
 3. Create a file `main.js` 
 4. Import your module in `main.js` with `require()`
 5. In `main.js`, invoke the method from the module with these parameters `process.argv[2]` and `process.argv[3]`
+6. Print the result of the function with `console.log()`
 6. Keep `main.js` and `module.js` in the same folder
 6. Run `$ npm test` to verify
 
