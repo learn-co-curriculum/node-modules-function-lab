@@ -36,7 +36,6 @@ function(password, salt) {
 
 ### Extra Info
 
-
 * [Crypto official documentation](https://nodejs.org/docs/v0.6.18/api/crypto.html#crypto_crypto)
 * [Encryption and password hashing with Node.js](https://masteringmean.com/lessons/46-Encryption-and-password-hashing-with-Nodejs)
 * [bcrypt module](https://github.com/ncb000gt/node.bcrypt.js)
