@@ -17,6 +17,7 @@
   },
   "homepage": "git@github.com:learn-co-curriculum/node-modules-function-lab.git/#readme",
   "devDependencies": {
-    "tape": "4.3.0"
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
   }
 }
