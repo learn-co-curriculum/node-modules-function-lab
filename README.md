@@ -23,8 +23,9 @@ In this lab, you'll master how to create, export and import a function module, i
 1. Create a file `main.js`
 1. Import your module in `main.js` with `require()`
 1. Add logic to check if the `main.js` a module or a CLI command with `module === require.main` (true if it's a CLI command).
+1. Implement CLI program and module
 
-### CLI Program
+### CLI Mode (CLI Program)
 
 1. Check that `module === require.main` is true.
 1. In `main.js`, invoke the method from the `module.js` module with these CLI parameters `process.argv[2]` and `process.argv[3]` (Refresh CLI arguments by visiting the corresponding lessons)
@@ -32,13 +33,15 @@ In this lab, you'll master how to create, export and import a function module, i
 1. Print error messages if one of the CLI arguments are missing
 1. Keep `main.js` and `module.js` in the same folder
 1. Run `node main PASSWORD SALT`
-1. Run `npm test` to verify
 
-
-### Module
+### Module Mode
 
 1. In `main.js`, check that `module === require.main` is false.
 1. In `main.js`, export the function from `module.js`
+
+### Verify
+
+1. Run `npm test` to verify
 
 `module === require.main` is true if the module is not imported by other Node files and false if it's imported by other files.
 
