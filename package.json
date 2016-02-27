@@ -4,7 +4,7 @@
   "description": "Using Function Module",
   "main": "index.js",
   "scripts": {
-    "test": "node test/index.js"
+    "test": "node_modules/mocha/bin/mocha test"
   },
   "repository": {
     "type": "git",
