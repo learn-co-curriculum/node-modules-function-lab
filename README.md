@@ -58,9 +58,9 @@ function(password, salt) {
 }
 ```
 
-You can read the official documentation provided in Extra Info.
+You can read the official documentation provided in Resources.
 
-### Extra Info
+### Resources
 
 * [Crypto official documentation](https://nodejs.org/docs/v0.6.18/api/crypto.html#crypto_crypto)
 * [Encryption and password hashing with Node.js](https://masteringmean.com/lessons/46-Encryption-and-password-hashing-with-Nodejs)
