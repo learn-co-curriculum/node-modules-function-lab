@@ -8,7 +8,7 @@
 
 ## Introduction
 
-Companies got hacked every day. As an app developer, you always need to assume your app and data will be compromise. For this reason, you must use encryption so the attacker will get only encrypted data, not plain passwords or personal information of your customers. This will give you some time to mitigate the damage.
+Companies got hacked every day. As an app developer, you always need to assume your app and data will be compromised. For this reason, you must use encryption so the attacker will get only encrypted data, not plain passwords or personal information of your customers. This will give you some time to mitigate the damage.
 
 Obviously, the encryption code needs to be a module so other teams and developers can use it. Additionally, your script must run as a stand alone CLI program.
 
