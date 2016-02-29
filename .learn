@@ -1,0 +1,14 @@
+tags:
+  - lab
+  - node
+languages:
+  - node
+resources: 3
+track:
+  - web development
+topc:
+  - node
+unit:
+  - Node Modules
+lesson:
+  - Using Function Module
